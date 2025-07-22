@@ -32,6 +32,5 @@ A basic terminal-based social media interface built using Python on VS Code. Thi
 4. Run the file:
 
 
-python3 social_media.py
 
 
